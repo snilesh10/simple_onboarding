@@ -1,6 +1,6 @@
 # simple_onboarding
 
-A new Flutter project.
+Simple Onboarding Example created using the [Introduction Screen](https://pub.dev/packages/introduction_screen/) package.
 
 ## Getting Started
 
